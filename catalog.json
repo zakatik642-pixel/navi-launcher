@@ -1,0 +1,249 @@
+{
+  "version": 1,
+  "base": "",
+  "clients": [
+    {
+      "id": "dimasik-26.2",
+      "name": "Dimasik 26.2",
+      "version": "26.2",
+      "file": "dimasik-26.2.zip",
+      "url": "https://disk.yandex.ru/d/hB8g0BQ5z7WGjA",
+      "size": 720003374,
+      "sha256": "0BEF672E2820FE2F7B9C7A7405D4E32875A67B312E359A9C9743505036D367D2",
+      "note": "26.2 · 687 МБ",
+      "entry": {
+        "java": "offline-run/java/bin/java.exe",
+        "classpathFile": "offline-run/classpath.json",
+        "classpathRoot": "offline-run/libs",
+        "classpathExtra": [
+          "offline-run/minecraft.jar"
+        ],
+        "mainClass": "net.fabricmc.loader.impl.launch.knot.KnotClient",
+        "version": "26.2",
+        "assetIndex": "32",
+        "assetsDir": "offline-run/assets",
+        "gameDir": "offline-run/game",
+        "nativesDir": "offline-run/libs/windows-x64",
+        "tempDir": "offline-run/temp",
+        "javaFlags": [
+          "--enable-native-access=ALL-UNNAMED",
+          "--sun-misc-unsafe-memory-access=allow",
+          "-noverify",
+          "-XX:-UsePerfData"
+        ],
+        "jvmArgs": [
+          "-Ddimasik.offline.name={nick}",
+          "-Dfabric.gameJarPath={dir}/offline-run/minecraft.jar",
+          "-Duser.home={dir}/offline-run/profile",
+          "-Djava.io.tmpdir={dir}/offline-run/temp"
+        ],
+        "width": 1100,
+        "height": 680
+      }
+    },
+    {
+      "id": "me0w-1.21.11",
+      "name": "Me0w 1.21.11",
+      "version": "1.21.11",
+      "file": "me0w-1.21.11.zip",
+      "url": "https://disk.yandex.ru/d/PGehKlPsyTzuEw",
+      "size": 806783820,
+      "sha256": "B1F3C6BB14E963F7601F9B1214B4F5AEDA0A36DFD1A921BC9F03ECE84CF55DC3",
+      "note": "1.21.11 · 769 МБ",
+      "entry": {
+        "argFile": "launch.args",
+        "java": "java21/bin/java.exe"
+      }
+    },
+    {
+      "id": "deadcode-1.21.11",
+      "name": "DeadCode 1.21.11",
+      "version": "1.21.11",
+      "file": "deadcode-1.21.11.zip",
+      "url": "https://disk.yandex.ru/d/U5PZMTo3f5j4kw",
+      "size": 962049641,
+      "sha256": "60FB5299FD1130748A2D9487CD650782FFACC68D9257FE86F9821E2E98917527",
+      "note": "1.21.11 · 917 МБ",
+      "entry": {
+        "runner": "offline/launch.exe",
+        "runnerArgs": [
+          "{dir}\\DeadCode\\games\\deadcode_fabric_1_21_11\\jvm\\bin\\java.exe",
+          "..\\..\\..\\offline\\game.args",
+          "{dir}\\offline\\bridge.dll"
+        ],
+        "cwd": "DeadCode/games/deadcode_fabric_1_21_11",
+        "env": {
+          "DC_OFFLINE_ROOT": "{dir}\\offline"
+        },
+        "console": true
+      }
+    },
+    {
+      "id": "deluxe-1.21.11",
+      "name": "DELUXE 1 21 11 FIX",
+      "version": "1.21.11",
+      "file": "deluxe-1.21.11.zip",
+      "url": "https://disk.yandex.ru/d/5QCJPXExwnIO7Q",
+      "size": 605999744,
+      "sha256": "07D5C357CA2B042A9A69A3F4141C80CD4D3FE7705BA24B4E061737C22132339E",
+      "note": "1.21.11 · 578 МБ",
+      "entry": {
+        "argFile": "launch.args",
+        "java": "java21/bin/java.exe",
+        "keybinds": {
+          "key_key.deluxe.clickgui": "key.keyboard.p"
+        }
+      }
+    },
+    {
+      "id": "nekto-1.21.11",
+      "name": "Nekto 1 21 11",
+      "version": "1.21.11",
+      "file": "nekto-1.21.11.zip",
+      "url": "https://disk.yandex.ru/d/Hq1EDZ62g00pHg",
+      "size": 670607299,
+      "sha256": "6F36C0E61F776EE809A671E071939A691DF25DD99F801815A6CD8F0D11E13924",
+      "note": "1.21.11 · 640 МБ",
+      "entry": {
+        "argFile": "launch.args",
+        "java": "java21/bin/java.exe",
+        "keybinds": {
+          "key_key.deluxe.clickgui": "key.keyboard.p"
+        }
+      }
+    },
+    {
+      "id": "flowerlegit-1.21.11",
+      "name": "FlowerLegit 1.21.11",
+      "version": "1.21.11",
+      "file": "flowerlegit-1.21.11.zip",
+      "url": "https://disk.yandex.ru/d/iHdMSG3fCUayng",
+      "size": 509061383,
+      "sha256": "BD897C27363688E3F0BB4CE968010E890DBEA21004516E78966342DC7D4A7179",
+      "note": "1.21.11 · 485 МБ",
+      "entry": {
+        "powershell": "FlowerLegit\\Start-Client.ps1"
+      }
+    },
+    {
+      "id": "skycore-26.2",
+      "name": "SkyC0re 26.2",
+      "version": "26.2",
+      "file": "skycore-26.2.zip",
+      "url": "https://disk.yandex.ru/d/8opMl7XRGf2JjA",
+      "size": 776850212,
+      "sha256": "4F1D1765967FEA09596C35BBEAAC1EB81FB0FF06B6DDFB9CEDC1F33B8E107D22",
+      "note": "26.2 · 741 МБ",
+      "entry": {
+        "java": "offline-run/java/bin/java.exe",
+        "classpathFile": "offline-run/classpath.json",
+        "classpathRoot": "offline-run/libs",
+        "classpathExtra": [
+          "offline-run/minecraft.jar"
+        ],
+        "mainClass": "net.fabricmc.loader.impl.launch.knot.KnotClient",
+        "version": "26.2",
+        "assetIndex": "32",
+        "assetsDir": "offline-run/assets",
+        "gameDir": "{dir}/run/game",
+        "nativesDir": "offline-run/libs/windows-x64",
+        "tempDir": "{dir}/run/temp",
+        "javaFlags": [
+          "--enable-native-access=ALL-UNNAMED",
+          "--sun-misc-unsafe-memory-access=allow",
+          "-noverify",
+          "-XX:-UsePerfData"
+        ],
+        "jvmArgs": [
+          "-Dfabric.gameJarPath={dir}/offline-run/minecraft.jar",
+          "-Duser.home={dir}\\profile",
+          "-Djava.io.tmpdir={dir}\\temp"
+        ],
+        "width": 1100,
+        "height": 680
+      }
+    },
+    {
+      "id": "n3v3rlose-1.21.11",
+      "name": "N3v3rlose 1.21.11",
+      "version": "1.21.11",
+      "file": "n3v3rlose-1.21.11.zip",
+      "url": "https://github.com/zakatik642-pixel/navi-catalog/releases/download/v1.8.0/n3v3rlose-1.21.11.zip",
+      "size": 770513553,
+      "sha256": "354A4560D039705857E965B25C58C8CAFC99644CF5D6095DFDDAE7F06ADD07D6",
+      "note": "1.21.11 · 735 МБ",
+      "entry": {
+        "argFile": "launch.args",
+        "java": "java21/bin/java.exe",
+        "version": "1.21.11"
+      }
+    },
+    {
+      "id": "void-1.21.11",
+      "name": "Void 1.21.11",
+      "version": "1.21.11",
+      "file": "void-1.21.11.zip",
+      "url": "https://github.com/zakatik642-pixel/navi-catalog/releases/download/v1.8.0/void-1.21.11.zip",
+      "size": 916666840,
+      "sha256": "F22A0194FB246FEFAA440E60062BBEDD8068AF332189C4EBC8F0DFA8A9232365",
+      "note": "1.21.11 · 874 МБ",
+      "entry": {
+        "version": "1.21.11",
+        "java": "java21/bin/java.exe",
+        "argFile": "launch.args"
+      }
+    },
+    {
+      "id": "toshiba-1.21.4",
+      "name": "T0shiba 1.21.4",
+      "version": "1.21.4",
+      "file": "toshiba-1.21.4.zip",
+      "url": "https://github.com/zakatik642-pixel/navi-catalog/releases/download/v1.8.0/toshiba-1.21.4.zip",
+      "size": 830954137,
+      "sha256": "2E1B171E9B76119EFF2C5346136EC7535E40C723E42BF2C16281E68319CC09E6",
+      "note": "1.21.4 · 792 МБ",
+      "entry": {
+        "version": "1.21.4",
+        "java": "java21/bin/java.exe",
+        "argFile": "launch.args"
+      }
+    },
+    {
+      "id": "gr1m-26.2",
+      "name": "gr1m 26.2",
+      "version": "26.2",
+      "file": "gr1m-26.2.zip",
+      "url": "https://github.com/zakatik642-pixel/navi-catalog/releases/download/v1.8.0/gr1m-26.2.zip",
+      "size": 769120207,
+      "sha256": "345BC79168B3B82DD58B21B778926873300571E81BDCFCCB8916EEAB1B027B2C",
+      "note": "26.2 · 733 МБ",
+      "entry": {
+        "version": "26.2",
+        "java": "offline-run/java/bin/java.exe",
+        "classpathFile": "offline-run/classpath.json",
+        "classpathRoot": "offline-run/libs",
+        "classpathExtra": [
+          "offline-run/minecraft.jar"
+        ],
+        "mainClass": "net.fabricmc.loader.impl.launch.knot.KnotClient",
+        "assetIndex": "32",
+        "assetsDir": "offline-run/assets",
+        "gameDir": "offline-run/game",
+        "nativesDir": "offline-run/libs/windows-x64",
+        "tempDir": "offline-run/temp",
+        "javaFlags": [
+          "--enable-native-access=ALL-UNNAMED",
+          "-noverify",
+          "-XX:-UsePerfData"
+        ],
+        "jvmArgs": [
+          "-Dfabric.gameJarPath={dir}/offline-run/minecraft.jar",
+          "-Duser.home={dir}/offline-run/profile",
+          "-Djava.io.tmpdir={dir}/offline-run/temp"
+        ],
+        "width": 1100,
+        "height": 680
+      }
+    }
+  ]
+}
