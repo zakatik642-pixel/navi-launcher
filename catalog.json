@@ -866,6 +866,20 @@
         "argFile": "launch.args",
         "java": "{base}/java21/bin/java.exe"
       }
+    },
+    {
+      "id": "flowerlegit-offline",
+      "name": "FlowerLegit Offline 1.21.11",
+      "version": "1.21.11",
+      "file": "flowerlegit-offline.zip",
+      "url": "https://github.com/zakatik642-pixel/navi-catalog/releases/download/v1.8.1/flowerlegit-offline.zip",
+      "size": 473235271,
+      "sha256": "197230C69125BDCF97BC08986B5392BBA7685C4BB66E62A55690613818F7B532",
+      "note": "1.21.11 · 451 МБ",
+      "entry": {
+        "bat": "FlowerLegit/start-client.bat",
+        "console": true
+      }
     }
   ],
   "bases": {
