@@ -1,6 +1,6 @@
 # NAVIlauncher
 
-Лаунчер Minecraft с каталогом клиентов, аккаунтами, помощником и общим чатом.
+Лаунчер Minecraft с каталогом клиентов, аккаунтами, помощником, чатом и музыкой.
 
 ## Скачать
 Свежий exe — в разделе Releases: https://github.com/zakatik642-pixel/navi-launcher/releases/latest
@@ -20,6 +20,26 @@
   "ai_api_key": "sk-...",
   "ai_base_url": "https://api.openai.com/v1/chat/completions",
   "ai_model": "gpt-4o-mini"
+}
+```
+
+## Музыка
+Вкладка «МУЗЫКА»: встроенные радио-потоки (Europa Plus, DFM, Record Chill, SomaFM),
+папка «Моя музыка» и любые плейлисты из `music.json` в этом репозитории.
+
+Свои файлы кладутся в `%APPDATA%\NAVIlauncher\music` (mp3, ogg, wav, flac, m4a, aac) —
+они появятся в «Моей музыке» при открытии вкладки.
+
+Формат `music.json`:
+
+```json
+{
+  "playlists": {
+    "Ночной дрифт": [
+      {"title": "Трек 1", "url": "https://example.com/track1.mp3"},
+      {"title": "Трек 2", "url": "https://example.com/track2.mp3"}
+    ]
+  }
 }
 ```
 
