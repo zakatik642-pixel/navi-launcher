@@ -314,6 +314,587 @@
         "powershell": "offline/launch.ps1",
         "console": true
       }
+    },
+    {
+      "id": "combatant-26.2",
+      "name": "Combatant 26.2",
+      "version": "26.2",
+      "file": "combatant-26.2.zip",
+      "url": "https://github.com/zakatik642-pixel/navi-catalog/releases/download/v1.9.0/combatant-26.2.zip",
+      "size": 61050713,
+      "sha256": "DFADFCCA0E8ACE362D89596813D12A8FB7A84ECF52B9F9ACEDC5F46C32488EC0",
+      "note": "26.2 · мод поверх рантайма",
+      "base": "base-26.2",
+      "entry": {
+        "java": "offline-run/java/bin/java.exe",
+        "classpathFile": "offline-run/classpath.json",
+        "classpathRoot": "offline-run/libs",
+        "classpathExtra": [
+          "offline-run/minecraft.jar"
+        ],
+        "mainClass": "net.fabricmc.loader.impl.launch.knot.KnotClient",
+        "version": "26.2",
+        "assetIndex": "32",
+        "assetsDir": "offline-run/assets",
+        "gameDir": "game",
+        "nativesDir": "offline-run/libs/windows-x64",
+        "tempDir": "{dir}/run/temp",
+        "javaFlags": [
+          "--enable-native-access=ALL-UNNAMED",
+          "--sun-misc-unsafe-memory-access=allow",
+          "-noverify",
+          "-XX:-UsePerfData"
+        ],
+        "jvmArgs": [
+          "-Dfabric.gameJarPath={dir}/offline-run/minecraft.jar",
+          "-Duser.home={dir}\\profile",
+          "-Djava.io.tmpdir={dir}\\temp"
+        ],
+        "width": 1100,
+        "height": 680
+      }
+    },
+    {
+      "id": "expcrime-26.2",
+      "name": "Expcrime 26.2",
+      "version": "26.2",
+      "file": "expcrime-26.2.zip",
+      "url": "https://github.com/zakatik642-pixel/navi-catalog/releases/download/v1.9.0/expcrime-26.2.zip",
+      "size": 2659876,
+      "sha256": "3593E5639B78C9D8EDD6CD904FC0B87BA0BB714CAC03667F4B32984073D39DA0",
+      "note": "26.2 · мод поверх рантайма",
+      "base": "base-26.2",
+      "entry": {
+        "java": "offline-run/java/bin/java.exe",
+        "classpathFile": "offline-run/classpath.json",
+        "classpathRoot": "offline-run/libs",
+        "classpathExtra": [
+          "offline-run/minecraft.jar"
+        ],
+        "mainClass": "net.fabricmc.loader.impl.launch.knot.KnotClient",
+        "version": "26.2",
+        "assetIndex": "32",
+        "assetsDir": "offline-run/assets",
+        "gameDir": "game",
+        "nativesDir": "offline-run/libs/windows-x64",
+        "tempDir": "{dir}/run/temp",
+        "javaFlags": [
+          "--enable-native-access=ALL-UNNAMED",
+          "--sun-misc-unsafe-memory-access=allow",
+          "-noverify",
+          "-XX:-UsePerfData"
+        ],
+        "jvmArgs": [
+          "-Dfabric.gameJarPath={dir}/offline-run/minecraft.jar",
+          "-Duser.home={dir}\\profile",
+          "-Djava.io.tmpdir={dir}\\temp"
+        ],
+        "width": 1100,
+        "height": 680
+      }
+    },
+    {
+      "id": "navidlc-26.2",
+      "name": "NaviDLC 26.2",
+      "version": "26.2",
+      "file": "navidlc-26.2.zip",
+      "url": "https://github.com/zakatik642-pixel/navi-catalog/releases/download/v1.9.0/navidlc-26.2.zip",
+      "size": 28554,
+      "sha256": "1D8249D67AF31DF782D93F41DE13A391FF3CF9837E32EE3B7A8F37D02D356BCA",
+      "note": "26.2 · мод поверх рантайма",
+      "base": "base-26.2",
+      "entry": {
+        "java": "offline-run/java/bin/java.exe",
+        "classpathFile": "offline-run/classpath.json",
+        "classpathRoot": "offline-run/libs",
+        "classpathExtra": [
+          "offline-run/minecraft.jar"
+        ],
+        "mainClass": "net.fabricmc.loader.impl.launch.knot.KnotClient",
+        "version": "26.2",
+        "assetIndex": "32",
+        "assetsDir": "offline-run/assets",
+        "gameDir": "game",
+        "nativesDir": "offline-run/libs/windows-x64",
+        "tempDir": "{dir}/run/temp",
+        "javaFlags": [
+          "--enable-native-access=ALL-UNNAMED",
+          "--sun-misc-unsafe-memory-access=allow",
+          "-noverify",
+          "-XX:-UsePerfData"
+        ],
+        "jvmArgs": [
+          "-Dfabric.gameJarPath={dir}/offline-run/minecraft.jar",
+          "-Duser.home={dir}\\profile",
+          "-Djava.io.tmpdir={dir}\\temp"
+        ],
+        "width": 1100,
+        "height": 680
+      }
+    },
+    {
+      "id": "ryzen-26.2",
+      "name": "Ryzen 26.2",
+      "version": "26.2",
+      "file": "ryzen-26.2.zip",
+      "url": "https://github.com/zakatik642-pixel/navi-catalog/releases/download/v1.9.0/ryzen-26.2.zip",
+      "size": 167576710,
+      "sha256": "960481C329CB40B967A029F13A16C2894435DE528133E0D20E977329426AFEF0",
+      "note": "26.2 · мод поверх рантайма",
+      "base": "base-26.2",
+      "entry": {
+        "java": "offline-run/java/bin/java.exe",
+        "classpathFile": "offline-run/classpath.json",
+        "classpathRoot": "offline-run/libs",
+        "classpathExtra": [
+          "offline-run/minecraft.jar"
+        ],
+        "mainClass": "net.fabricmc.loader.impl.launch.knot.KnotClient",
+        "version": "26.2",
+        "assetIndex": "32",
+        "assetsDir": "offline-run/assets",
+        "gameDir": "game",
+        "nativesDir": "offline-run/libs/windows-x64",
+        "tempDir": "{dir}/run/temp",
+        "javaFlags": [
+          "--enable-native-access=ALL-UNNAMED",
+          "--sun-misc-unsafe-memory-access=allow",
+          "-noverify",
+          "-XX:-UsePerfData"
+        ],
+        "jvmArgs": [
+          "-Dfabric.gameJarPath={dir}/offline-run/minecraft.jar",
+          "-Duser.home={dir}\\profile",
+          "-Djava.io.tmpdir={dir}\\temp"
+        ],
+        "width": 1100,
+        "height": 680
+      }
+    },
+    {
+      "id": "wexside-26.2",
+      "name": "Wexside 26.2",
+      "version": "26.2",
+      "file": "wexside-26.2.zip",
+      "url": "https://github.com/zakatik642-pixel/navi-catalog/releases/download/v1.9.0/wexside-26.2.zip",
+      "size": 9696402,
+      "sha256": "7ADCB8ECB7BA9ABDE1EFD6CC71C0DA36F45B269B2E520C43E837B93087B3E418",
+      "note": "26.2 · мод поверх рантайма",
+      "base": "base-26.2",
+      "entry": {
+        "java": "offline-run/java/bin/java.exe",
+        "classpathFile": "offline-run/classpath.json",
+        "classpathRoot": "offline-run/libs",
+        "classpathExtra": [
+          "offline-run/minecraft.jar"
+        ],
+        "mainClass": "net.fabricmc.loader.impl.launch.knot.KnotClient",
+        "version": "26.2",
+        "assetIndex": "32",
+        "assetsDir": "offline-run/assets",
+        "gameDir": "game",
+        "nativesDir": "offline-run/libs/windows-x64",
+        "tempDir": "{dir}/run/temp",
+        "javaFlags": [
+          "--enable-native-access=ALL-UNNAMED",
+          "--sun-misc-unsafe-memory-access=allow",
+          "-noverify",
+          "-XX:-UsePerfData"
+        ],
+        "jvmArgs": [
+          "-Dfabric.gameJarPath={dir}/offline-run/minecraft.jar",
+          "-Duser.home={dir}\\profile",
+          "-Djava.io.tmpdir={dir}\\temp"
+        ],
+        "width": 1100,
+        "height": 680
+      }
+    },
+    {
+      "id": "systemsrc-26.2",
+      "name": "SystemSRC 26.2",
+      "version": "26.2",
+      "file": "systemsrc-26.2.zip",
+      "url": "https://github.com/zakatik642-pixel/navi-catalog/releases/download/v1.9.0/systemsrc-26.2.zip",
+      "size": 20826588,
+      "sha256": "3BF2D0A39534C07EB26559DA21CF9D6BB0692793B26497A9CF5CD3E427C1DD1B",
+      "note": "26.2 · мод поверх рантайма",
+      "base": "base-26.2",
+      "entry": {
+        "java": "offline-run/java/bin/java.exe",
+        "classpathFile": "offline-run/classpath.json",
+        "classpathRoot": "offline-run/libs",
+        "classpathExtra": [
+          "offline-run/minecraft.jar"
+        ],
+        "mainClass": "net.fabricmc.loader.impl.launch.knot.KnotClient",
+        "version": "26.2",
+        "assetIndex": "32",
+        "assetsDir": "offline-run/assets",
+        "gameDir": "game",
+        "nativesDir": "offline-run/libs/windows-x64",
+        "tempDir": "{dir}/run/temp",
+        "javaFlags": [
+          "--enable-native-access=ALL-UNNAMED",
+          "--sun-misc-unsafe-memory-access=allow",
+          "-noverify",
+          "-XX:-UsePerfData"
+        ],
+        "jvmArgs": [
+          "-Dfabric.gameJarPath={dir}/offline-run/minecraft.jar",
+          "-Duser.home={dir}\\profile",
+          "-Djava.io.tmpdir={dir}\\temp"
+        ],
+        "width": 1100,
+        "height": 680
+      }
+    },
+    {
+      "id": "aegis-1.21.11",
+      "name": "Aegis 1.21.11",
+      "version": "1.21.11",
+      "file": "aegis-1.21.11.zip",
+      "url": "https://github.com/zakatik642-pixel/navi-catalog/releases/download/v1.9.0/aegis-1.21.11.zip",
+      "size": 111434684,
+      "sha256": "3B309C5C3795927B20ACB5B145945909058D9BA144CFF4E866280DA00CA54343",
+      "note": "1.21.11 · мод поверх рантайма",
+      "base": "base-1.21.11",
+      "entry": {
+        "argFile": "launch.args",
+        "java": "{base}/java21/bin/java.exe"
+      }
+    },
+    {
+      "id": "ancient-1.21.11",
+      "name": "ANCIENT 1.21.11",
+      "version": "1.21.11",
+      "file": "ancient-1.21.11.zip",
+      "url": "https://github.com/zakatik642-pixel/navi-catalog/releases/download/v1.9.0/ancient-1.21.11.zip",
+      "size": 117484270,
+      "sha256": "91F1A1795C8D4E5443E9DDDC19CE64CB71BFBDE88054F5DCDA2ECBF15E77CAE2",
+      "note": "1.21.11 · мод поверх рантайма",
+      "base": "base-1.21.11",
+      "entry": {
+        "argFile": "launch.args",
+        "java": "{base}/java21/bin/java.exe"
+      }
+    },
+    {
+      "id": "flow-1.21.11",
+      "name": "Flow 1.21.11",
+      "version": "1.21.11",
+      "file": "flow-1.21.11.zip",
+      "url": "https://github.com/zakatik642-pixel/navi-catalog/releases/download/v1.9.0/flow-1.21.11.zip",
+      "size": 158408179,
+      "sha256": "FF66AA0139B3740EDD05042CB664FECD5B3BAA658CCD8D7602AC356EDA8F0AD0",
+      "note": "1.21.11 · мод поверх рантайма",
+      "base": "base-1.21.11",
+      "entry": {
+        "argFile": "launch.args",
+        "java": "{base}/java21/bin/java.exe"
+      }
+    },
+    {
+      "id": "troxill-1.21.11",
+      "name": "Troxill 1.21.11",
+      "version": "1.21.11",
+      "file": "troxill-1.21.11.zip",
+      "url": "https://github.com/zakatik642-pixel/navi-catalog/releases/download/v1.9.0/troxill-1.21.11.zip",
+      "size": 43767635,
+      "sha256": "847FDEB2033C3A8AE90FD946D5FF31F3C18BCD10AE61C69E58FF08443A7B378D",
+      "note": "1.21.11 · мод поверх рантайма",
+      "base": "base-1.21.11",
+      "entry": {
+        "argFile": "launch.args",
+        "java": "{base}/java21/bin/java.exe"
+      }
+    },
+    {
+      "id": "wexside-1.21.11",
+      "name": "Wexside 1.21.11",
+      "version": "1.21.11",
+      "file": "wexside-1.21.11.zip",
+      "url": "https://github.com/zakatik642-pixel/navi-catalog/releases/download/v1.9.0/wexside-1.21.11.zip",
+      "size": 99564367,
+      "sha256": "7A7268116CE7B11CC1FE355F94E452C56C36BC1BCEDD2E22B7C00BE940176B79",
+      "note": "1.21.11 · мод поверх рантайма",
+      "base": "base-1.21.11",
+      "entry": {
+        "argFile": "launch.args",
+        "java": "{base}/java21/bin/java.exe"
+      }
+    },
+    {
+      "id": "timoha-1.21.11",
+      "name": "Timoha 1.21.11",
+      "version": "1.21.11",
+      "file": "timoha-1.21.11.zip",
+      "url": "https://github.com/zakatik642-pixel/navi-catalog/releases/download/v1.9.0/timoha-1.21.11.zip",
+      "size": 182431798,
+      "sha256": "B50955F2BCBF49D5E850DA47B58C9EF1E4552B17EB1928A43CAAB508C6A92712",
+      "note": "1.21.11 · мод поверх рантайма",
+      "base": "base-1.21.11",
+      "entry": {
+        "argFile": "launch.args",
+        "java": "{base}/java21/bin/java.exe"
+      }
+    },
+    {
+      "id": "naviclient-1.21.11",
+      "name": "NaviClient 1.21.11",
+      "version": "1.21.11",
+      "file": "naviclient-1.21.11.zip",
+      "url": "https://github.com/zakatik642-pixel/navi-catalog/releases/download/v1.9.0/naviclient-1.21.11.zip",
+      "size": 31193,
+      "sha256": "610D36DFD59F2BB8CD94757B63AEEFE3092B84DBBE6187C17D8ED4565CA58F06",
+      "note": "1.21.11 · мод поверх рантайма",
+      "base": "base-1.21.11",
+      "entry": {
+        "argFile": "launch.args",
+        "java": "{base}/java21/bin/java.exe"
+      }
+    },
+    {
+      "id": "flow-reconstruct-1.21.11",
+      "name": "Flow Reconstruct 1.21.11",
+      "version": "1.21.11",
+      "file": "flow-reconstruct-1.21.11.zip",
+      "url": "https://github.com/zakatik642-pixel/navi-catalog/releases/download/v1.9.0/flow-reconstruct-1.21.11.zip",
+      "size": 158408187,
+      "sha256": "F2A92E748EBAC45FEC60DD56B923102F68F7EA72BAFD998CED226D728C68424D",
+      "note": "1.21.11 · мод поверх рантайма",
+      "base": "base-1.21.11",
+      "entry": {
+        "argFile": "launch.args",
+        "java": "{base}/java21/bin/java.exe"
+      }
+    },
+    {
+      "id": "systemsrc-1.21.11",
+      "name": "SystemSRC 1.21.11",
+      "version": "1.21.11",
+      "file": "systemsrc-1.21.11.zip",
+      "url": "https://github.com/zakatik642-pixel/navi-catalog/releases/download/v1.9.0/systemsrc-1.21.11.zip",
+      "size": 40416206,
+      "sha256": "41B65E2F21C346FB794F1FB8468071EA7C95CCF4394F35AFE0603329A22B922B",
+      "note": "1.21.11 · мод поверх рантайма",
+      "base": "base-1.21.11",
+      "entry": {
+        "argFile": "launch.args",
+        "java": "{base}/java21/bin/java.exe"
+      }
+    },
+    {
+      "id": "brokke-1.21.11",
+      "name": "Brokke 1.21.11",
+      "version": "1.21.11",
+      "file": "brokke-1.21.11.zip",
+      "url": "https://github.com/zakatik642-pixel/navi-catalog/releases/download/v1.9.0/brokke-1.21.11.zip",
+      "size": 31919727,
+      "sha256": "04656F3696AC45C47727F958FA7A455BD9F4334200E91ADC15EBB43151EE98A3",
+      "note": "1.21.11 · мод поверх рантайма",
+      "base": "base-1.21.11",
+      "entry": {
+        "argFile": "launch.args",
+        "java": "{base}/java21/bin/java.exe"
+      }
+    },
+    {
+      "id": "ryzen-1.21.11",
+      "name": "Ryzen 1.21.11",
+      "version": "1.21.11",
+      "file": "ryzen-1.21.11.zip",
+      "url": "https://github.com/zakatik642-pixel/navi-catalog/releases/download/v1.9.0/ryzen-1.21.11.zip",
+      "size": 106422397,
+      "sha256": "5309E2608DA2461946A5BD436346318C85E4F5A38C9428AF534D223BDB6F6AA2",
+      "note": "1.21.11 · мод поверх рантайма",
+      "base": "base-1.21.11",
+      "entry": {
+        "argFile": "launch.args",
+        "java": "{base}/java21/bin/java.exe"
+      }
+    },
+    {
+      "id": "damadlc-1.21.4",
+      "name": "DamaDLC 1.21.4",
+      "version": "1.21.4",
+      "file": "damadlc-1.21.4.zip",
+      "url": "https://github.com/zakatik642-pixel/navi-catalog/releases/download/v1.9.0/damadlc-1.21.4.zip",
+      "size": 19749841,
+      "sha256": "57745AEC96F262D5FFEE4289769302F274B410F41207332BC68DFA521E03056E",
+      "note": "1.21.4 · мод поверх рантайма",
+      "base": "base-1.21.4",
+      "entry": {
+        "argFile": "launch.args",
+        "java": "{base}/runtime/java-runtime-delta/windows-x64/java-runtime-delta/bin/java.exe"
+      }
+    },
+    {
+      "id": "arbuz-1.21.4",
+      "name": "Arbuz 1.21.4",
+      "version": "1.21.4",
+      "file": "arbuz-1.21.4.zip",
+      "url": "https://github.com/zakatik642-pixel/navi-catalog/releases/download/v1.9.0/arbuz-1.21.4.zip",
+      "size": 33213540,
+      "sha256": "AAA19CA2B1B0062A0B850D09698CF776243E5E31C020584DE33B96EE9C6A9F61",
+      "note": "1.21.4 · мод поверх рантайма",
+      "base": "base-1.21.4",
+      "entry": {
+        "argFile": "launch.args",
+        "java": "{base}/runtime/java-runtime-delta/windows-x64/java-runtime-delta/bin/java.exe"
+      }
+    },
+    {
+      "id": "aspect-1.21.4",
+      "name": "AspectDLC 1.21.4",
+      "version": "1.21.4",
+      "file": "aspect-1.21.4.zip",
+      "url": "https://github.com/zakatik642-pixel/navi-catalog/releases/download/v1.9.0/aspect-1.21.4.zip",
+      "size": 68483747,
+      "sha256": "F7A9BCA43035220E0FABA7C9435ECDC706DBBE922640A2420517B4D081CDE2E3",
+      "note": "1.21.4 · мод поверх рантайма",
+      "base": "base-1.21.4",
+      "entry": {
+        "argFile": "launch.args",
+        "java": "{base}/runtime/java-runtime-delta/windows-x64/java-runtime-delta/bin/java.exe"
+      }
+    },
+    {
+      "id": "debuda-1.21.4",
+      "name": "Debuda 1.21.4",
+      "version": "1.21.4",
+      "file": "debuda-1.21.4.zip",
+      "url": "https://github.com/zakatik642-pixel/navi-catalog/releases/download/v1.9.0/debuda-1.21.4.zip",
+      "size": 51498328,
+      "sha256": "30F28E14046706A1BF73E9B4B9A85E417B0FF88E094F420A1F82B1037FCBB0A6",
+      "note": "1.21.4 · мод поверх рантайма",
+      "base": "base-1.21.4",
+      "entry": {
+        "argFile": "launch.args",
+        "java": "{base}/runtime/java-runtime-delta/windows-x64/java-runtime-delta/bin/java.exe"
+      }
+    },
+    {
+      "id": "ineedweed-1.21.4",
+      "name": "Ineedweed 1.21.4",
+      "version": "1.21.4",
+      "file": "ineedweed-1.21.4.zip",
+      "url": "https://github.com/zakatik642-pixel/navi-catalog/releases/download/v1.9.0/ineedweed-1.21.4.zip",
+      "size": 17289210,
+      "sha256": "D7256CCD5F1BA9A49186F55981597830C42D9C1D2FA15E2BFFE3702860CFD1D2",
+      "note": "1.21.4 · мод поверх рантайма",
+      "base": "base-1.21.4",
+      "entry": {
+        "argFile": "launch.args",
+        "java": "{base}/runtime/java-runtime-delta/windows-x64/java-runtime-delta/bin/java.exe"
+      }
+    },
+    {
+      "id": "meow-1.21.4",
+      "name": "Meow 1.21.4",
+      "version": "1.21.4",
+      "file": "meow-1.21.4.zip",
+      "url": "https://github.com/zakatik642-pixel/navi-catalog/releases/download/v1.9.0/meow-1.21.4.zip",
+      "size": 10132034,
+      "sha256": "2D8CB3946724474EFC67FF97653AC43106B95D7465BB04D93382D5A281B70BFC",
+      "note": "1.21.4 · мод поверх рантайма",
+      "base": "base-1.21.4",
+      "entry": {
+        "argFile": "launch.args",
+        "java": "{base}/runtime/java-runtime-delta/windows-x64/java-runtime-delta/bin/java.exe"
+      }
+    },
+    {
+      "id": "papus-1.21.4",
+      "name": "Papus 1.21.4",
+      "version": "1.21.4",
+      "file": "papus-1.21.4.zip",
+      "url": "https://github.com/zakatik642-pixel/navi-catalog/releases/download/v1.9.0/papus-1.21.4.zip",
+      "size": 9026185,
+      "sha256": "03EE6E652373EB63706DD925F269D5513F23F7A454194042421E78A6D508E691",
+      "note": "1.21.4 · мод поверх рантайма",
+      "base": "base-1.21.4",
+      "entry": {
+        "argFile": "launch.args",
+        "java": "{base}/runtime/java-runtime-delta/windows-x64/java-runtime-delta/bin/java.exe"
+      }
+    },
+    {
+      "id": "voidstrike-1.21.4",
+      "name": "Voidstrike 1.21.4",
+      "version": "1.21.4",
+      "file": "voidstrike-1.21.4.zip",
+      "url": "https://github.com/zakatik642-pixel/navi-catalog/releases/download/v1.9.0/voidstrike-1.21.4.zip",
+      "size": 20718437,
+      "sha256": "F4A2E5ABB6FF2A2F5A17DB11189D9645D2E6A936851C40D44C186CBA27EFC260",
+      "note": "1.21.4 · мод поверх рантайма",
+      "base": "base-1.21.4",
+      "entry": {
+        "argFile": "launch.args",
+        "java": "{base}/runtime/java-runtime-delta/windows-x64/java-runtime-delta/bin/java.exe"
+      }
+    },
+    {
+      "id": "wayne-1.21.4",
+      "name": "Wayne 1.21.4",
+      "version": "1.21.4",
+      "file": "wayne-1.21.4.zip",
+      "url": "https://github.com/zakatik642-pixel/navi-catalog/releases/download/v1.9.0/wayne-1.21.4.zip",
+      "size": 8891633,
+      "sha256": "7A33C523F885AFC7C17C00D881A11E1F8436821C0F1E5824800CB05B97480CEF",
+      "note": "1.21.4 · мод поверх рантайма",
+      "base": "base-1.21.4",
+      "entry": {
+        "argFile": "launch.args",
+        "java": "{base}/runtime/java-runtime-delta/windows-x64/java-runtime-delta/bin/java.exe"
+      }
+    },
+    {
+      "id": "doomsday-1.21.4",
+      "name": "DoomsDay 1.21.4",
+      "version": "1.21.4",
+      "file": "doomsday-1.21.4.zip",
+      "url": "https://github.com/zakatik642-pixel/navi-catalog/releases/download/v1.9.0/doomsday-1.21.4.zip",
+      "size": 3071300,
+      "sha256": "C5AFB544C6491150A4D380E956D6CAF6A7499217B44DDB64073BE25C1D8F565D",
+      "note": "1.21.4 · мод поверх рантайма",
+      "base": "base-1.21.4",
+      "entry": {
+        "argFile": "launch.args",
+        "java": "{base}/runtime/java-runtime-delta/windows-x64/java-runtime-delta/bin/java.exe"
+      }
+    },
+    {
+      "id": "britva-1.21.4",
+      "name": "Britva 1.21.4",
+      "version": "1.21.4",
+      "file": "britva-1.21.4.zip",
+      "url": "https://github.com/zakatik642-pixel/navi-catalog/releases/download/v1.9.0/britva-1.21.4.zip",
+      "size": 99671625,
+      "sha256": "6BF1E5B73EF497FB0B2596599310037B7700FF614CDDFCBD70DF26E6C356832A",
+      "note": "1.21.4 · мод поверх рантайма",
+      "base": "base-1.21.4",
+      "entry": {
+        "argFile": "launch.args",
+        "java": "{base}/runtime/java-runtime-delta/windows-x64/java-runtime-delta/bin/java.exe"
+      }
     }
-  ]
+  ],
+  "bases": {
+    "base-26.2": {
+      "url": "https://github.com/zakatik642-pixel/navi-catalog/releases/download/v1.8.0/skycore-26.2.zip",
+      "size": 776850212,
+      "sha256": "4F1D1765967FEA09596C35BBEAAC1EB81FB0FF06B6DDFB9CEDC1F33B8E107D22"
+    },
+    "base-1.21.11": {
+      "url": "https://github.com/zakatik642-pixel/navi-catalog/releases/download/v1.8.0/me0w-1.21.11.zip",
+      "size": 806783820,
+      "sha256": "B1F3C6BB14E963F7601F9B1214B4F5AEDA0A36DFD1A921BC9F03ECE84CF55DC3"
+    },
+    "base-1.21.4": {
+      "url": "https://github.com/zakatik642-pixel/navi-catalog/releases/download/v1.9.0/base-1.21.4.zip",
+      "size": 539491781,
+      "sha256": "E9BF908447DAC38E9A9417577157EB6BA20D3917575A7EF1F1A1D6FE1067F666"
+    }
+  }
 }
