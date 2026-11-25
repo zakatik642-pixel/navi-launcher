@@ -113,19 +113,6 @@
       }
     },
     {
-      "id": "flowerlegit-1.21.11",
-      "name": "FlowerLegit 1.21.11",
-      "version": "1.21.11",
-      "file": "flowerlegit-1.21.11.zip",
-      "url": "https://github.com/zakatik642-pixel/navi-catalog/releases/download/v1.8.0/flowerlegit-1.21.11.zip",
-      "size": 509061383,
-      "sha256": "BD897C27363688E3F0BB4CE968010E890DBEA21004516E78966342DC7D4A7179",
-      "note": "1.21.11 · 485 МБ",
-      "entry": {
-        "powershell": "FlowerLegit\\Start-Client.ps1"
-      }
-    },
-    {
       "id": "skycore-26.2",
       "name": "SkyC0re 26.2",
       "version": "26.2",
@@ -270,20 +257,6 @@
       "note": "1.21.4 · 550 МБ",
       "entry": {
         "bat": "Essence-1.21.4/START-ESSENCE.bat",
-        "console": true
-      }
-    },
-    {
-      "id": "flowerlegit-offline",
-      "name": "FlowerLegit Offline 1.21.11",
-      "version": "1.21.11",
-      "file": "flowerlegit-offline.zip",
-      "url": "https://github.com/zakatik642-pixel/navi-catalog/releases/download/v1.8.1/flowerlegit-offline.zip",
-      "size": 473235271,
-      "sha256": "197230C69125BDCF97BC08986B5392BBA7685C4BB66E62A55690613818F7B532",
-      "note": "1.21.11 · 451 МБ",
-      "entry": {
-        "bat": "FlowerLegit/start-client.bat",
         "console": true
       }
     },
