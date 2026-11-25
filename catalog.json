@@ -244,6 +244,76 @@
         "width": 1100,
         "height": 680
       }
+    },
+    {
+      "id": "zedge-1.21.4",
+      "name": "Zedge 1.21.4",
+      "version": "1.21.4",
+      "file": "zedge-1.21.4.zip",
+      "url": "https://github.com/zakatik642-pixel/navi-catalog/releases/download/v1.8.1/zedge-1.21.4.zip",
+      "size": 814949120,
+      "sha256": "3D628E3A7576991F346A6C962624C49499FD73ADAA84417005BEB882B81E9386",
+      "note": "1.21.4 · 777 МБ",
+      "entry": {
+        "bat": "ZedgeOffline/start.bat",
+        "console": true
+      }
+    },
+    {
+      "id": "essence-1.21.4",
+      "name": "Essence 1.21.4",
+      "version": "1.21.4",
+      "file": "essence-1.21.4.zip",
+      "url": "https://github.com/zakatik642-pixel/navi-catalog/releases/download/v1.8.1/essence-1.21.4.zip",
+      "size": 576579620,
+      "sha256": "F4EAEB61C9B2C333C8FAAF0BD59D3E419E736AC2FE9B925817538DC07F60F7AF",
+      "note": "1.21.4 · 550 МБ",
+      "entry": {
+        "bat": "Essence-1.21.4/START-ESSENCE.bat",
+        "console": true
+      }
+    },
+    {
+      "id": "flowerlegit-offline",
+      "name": "FlowerLegit Offline 1.21.11",
+      "version": "1.21.11",
+      "file": "flowerlegit-offline.zip",
+      "url": "https://github.com/zakatik642-pixel/navi-catalog/releases/download/v1.8.1/flowerlegit-offline.zip",
+      "size": 473235271,
+      "sha256": "197230C69125BDCF97BC08986B5392BBA7685C4BB66E62A55690613818F7B532",
+      "note": "1.21.11 · 451 МБ",
+      "entry": {
+        "bat": "FlowerLegit/start-client.bat",
+        "console": true
+      }
+    },
+    {
+      "id": "catlavan",
+      "name": "Catlavan Offline",
+      "version": "",
+      "file": "catlavan.zip",
+      "url": "https://github.com/zakatik642-pixel/navi-catalog/releases/download/v1.8.1/catlavan.zip",
+      "size": 740899978,
+      "sha256": "D211A727784B9CA7569A9209A5594B67F83494D420E6B34239F224124E2C3244",
+      "note": "707 МБ",
+      "entry": {
+        "bat": "START_CATLAVAN_OFFLINE.bat",
+        "console": true
+      }
+    },
+    {
+      "id": "zenith-cosmetics",
+      "name": "Zenith Cosmetics",
+      "version": "",
+      "file": "zenith-cosmetics.zip",
+      "url": "https://github.com/zakatik642-pixel/navi-catalog/releases/download/v1.8.1/zenith-cosmetics.zip",
+      "size": 748495954,
+      "sha256": "66191CEAE104950FA0C5A2C904A149491EA7E774FEC1827202307C2F423C2C2C",
+      "note": "714 МБ",
+      "entry": {
+        "powershell": "offline/launch.ps1",
+        "console": true
+      }
     }
   ]
 }
