@@ -878,6 +878,21 @@
         "argFile": "launch.args",
         "java": "{base}/runtime/java-runtime-delta/windows-x64/java-runtime-delta/bin/java.exe"
       }
+    },
+    {
+      "id": "cometa-1.21.11",
+      "name": "Cometa 1.21.11",
+      "version": "1.21.11",
+      "file": "cometa-1.21.11.zip",
+      "url": "https://github.com/zakatik642-pixel/navi-catalog/releases/download/v1.9.0/cometa-1.21.11.zip",
+      "size": 635890658,
+      "sha256": "CA07D9C7A74ACDBF9E4530464ECD9FBBA843A1CCBCF99A8CF07E47FA2C260127",
+      "note": "1.21.11 · клиент со своим рантаймом",
+      "base": "base-1.21.11",
+      "entry": {
+        "argFile": "launch.args",
+        "java": "{base}/java21/bin/java.exe"
+      }
     }
   ],
   "bases": {
