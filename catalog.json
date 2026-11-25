@@ -326,19 +326,19 @@
       "note": "26.2 · мод поверх рантайма",
       "base": "base-26.2",
       "entry": {
-        "java": "offline-run/java/bin/java.exe",
-        "classpathFile": "offline-run/classpath.json",
-        "classpathRoot": "offline-run/libs",
+        "java": "{base}/offline-run/java/bin/java.exe",
+        "classpathFile": "{base}/offline-run/classpath.json",
+        "classpathRoot": "{base}/offline-run/libs",
         "classpathExtra": [
-          "offline-run/minecraft.jar"
+          "{base}/offline-run/minecraft.jar"
         ],
         "mainClass": "net.fabricmc.loader.impl.launch.knot.KnotClient",
         "version": "26.2",
         "assetIndex": "32",
-        "assetsDir": "offline-run/assets",
+        "assetsDir": "{base}/offline-run/assets",
         "gameDir": "game",
-        "nativesDir": "offline-run/libs/windows-x64",
-        "tempDir": "{dir}/run/temp",
+        "nativesDir": "{base}/offline-run/libs/windows-x64",
+        "tempDir": "{base}/offline-run/temp",
         "javaFlags": [
           "--enable-native-access=ALL-UNNAMED",
           "--sun-misc-unsafe-memory-access=allow",
@@ -346,9 +346,9 @@
           "-XX:-UsePerfData"
         ],
         "jvmArgs": [
-          "-Dfabric.gameJarPath={dir}/offline-run/minecraft.jar",
-          "-Duser.home={dir}\\profile",
-          "-Djava.io.tmpdir={dir}\\temp"
+          "-Dfabric.gameJarPath={base}/offline-run/minecraft.jar",
+          "-Duser.home={base}/offline-run/profile",
+          "-Djava.io.tmpdir={base}/offline-run/temp"
         ],
         "width": 1100,
         "height": 680
@@ -365,19 +365,19 @@
       "note": "26.2 · мод поверх рантайма",
       "base": "base-26.2",
       "entry": {
-        "java": "offline-run/java/bin/java.exe",
-        "classpathFile": "offline-run/classpath.json",
-        "classpathRoot": "offline-run/libs",
+        "java": "{base}/offline-run/java/bin/java.exe",
+        "classpathFile": "{base}/offline-run/classpath.json",
+        "classpathRoot": "{base}/offline-run/libs",
         "classpathExtra": [
-          "offline-run/minecraft.jar"
+          "{base}/offline-run/minecraft.jar"
         ],
         "mainClass": "net.fabricmc.loader.impl.launch.knot.KnotClient",
         "version": "26.2",
         "assetIndex": "32",
-        "assetsDir": "offline-run/assets",
+        "assetsDir": "{base}/offline-run/assets",
         "gameDir": "game",
-        "nativesDir": "offline-run/libs/windows-x64",
-        "tempDir": "{dir}/run/temp",
+        "nativesDir": "{base}/offline-run/libs/windows-x64",
+        "tempDir": "{base}/offline-run/temp",
         "javaFlags": [
           "--enable-native-access=ALL-UNNAMED",
           "--sun-misc-unsafe-memory-access=allow",
@@ -385,9 +385,9 @@
           "-XX:-UsePerfData"
         ],
         "jvmArgs": [
-          "-Dfabric.gameJarPath={dir}/offline-run/minecraft.jar",
-          "-Duser.home={dir}\\profile",
-          "-Djava.io.tmpdir={dir}\\temp"
+          "-Dfabric.gameJarPath={base}/offline-run/minecraft.jar",
+          "-Duser.home={base}/offline-run/profile",
+          "-Djava.io.tmpdir={base}/offline-run/temp"
         ],
         "width": 1100,
         "height": 680
@@ -404,19 +404,19 @@
       "note": "26.2 · мод поверх рантайма",
       "base": "base-26.2",
       "entry": {
-        "java": "offline-run/java/bin/java.exe",
-        "classpathFile": "offline-run/classpath.json",
-        "classpathRoot": "offline-run/libs",
+        "java": "{base}/offline-run/java/bin/java.exe",
+        "classpathFile": "{base}/offline-run/classpath.json",
+        "classpathRoot": "{base}/offline-run/libs",
         "classpathExtra": [
-          "offline-run/minecraft.jar"
+          "{base}/offline-run/minecraft.jar"
         ],
         "mainClass": "net.fabricmc.loader.impl.launch.knot.KnotClient",
         "version": "26.2",
         "assetIndex": "32",
-        "assetsDir": "offline-run/assets",
+        "assetsDir": "{base}/offline-run/assets",
         "gameDir": "game",
-        "nativesDir": "offline-run/libs/windows-x64",
-        "tempDir": "{dir}/run/temp",
+        "nativesDir": "{base}/offline-run/libs/windows-x64",
+        "tempDir": "{base}/offline-run/temp",
         "javaFlags": [
           "--enable-native-access=ALL-UNNAMED",
           "--sun-misc-unsafe-memory-access=allow",
@@ -424,9 +424,9 @@
           "-XX:-UsePerfData"
         ],
         "jvmArgs": [
-          "-Dfabric.gameJarPath={dir}/offline-run/minecraft.jar",
-          "-Duser.home={dir}\\profile",
-          "-Djava.io.tmpdir={dir}\\temp"
+          "-Dfabric.gameJarPath={base}/offline-run/minecraft.jar",
+          "-Duser.home={base}/offline-run/profile",
+          "-Djava.io.tmpdir={base}/offline-run/temp"
         ],
         "width": 1100,
         "height": 680
@@ -443,19 +443,19 @@
       "note": "26.2 · мод поверх рантайма",
       "base": "base-26.2",
       "entry": {
-        "java": "offline-run/java/bin/java.exe",
-        "classpathFile": "offline-run/classpath.json",
-        "classpathRoot": "offline-run/libs",
+        "java": "{base}/offline-run/java/bin/java.exe",
+        "classpathFile": "{base}/offline-run/classpath.json",
+        "classpathRoot": "{base}/offline-run/libs",
         "classpathExtra": [
-          "offline-run/minecraft.jar"
+          "{base}/offline-run/minecraft.jar"
         ],
         "mainClass": "net.fabricmc.loader.impl.launch.knot.KnotClient",
         "version": "26.2",
         "assetIndex": "32",
-        "assetsDir": "offline-run/assets",
+        "assetsDir": "{base}/offline-run/assets",
         "gameDir": "game",
-        "nativesDir": "offline-run/libs/windows-x64",
-        "tempDir": "{dir}/run/temp",
+        "nativesDir": "{base}/offline-run/libs/windows-x64",
+        "tempDir": "{base}/offline-run/temp",
         "javaFlags": [
           "--enable-native-access=ALL-UNNAMED",
           "--sun-misc-unsafe-memory-access=allow",
@@ -463,9 +463,9 @@
           "-XX:-UsePerfData"
         ],
         "jvmArgs": [
-          "-Dfabric.gameJarPath={dir}/offline-run/minecraft.jar",
-          "-Duser.home={dir}\\profile",
-          "-Djava.io.tmpdir={dir}\\temp"
+          "-Dfabric.gameJarPath={base}/offline-run/minecraft.jar",
+          "-Duser.home={base}/offline-run/profile",
+          "-Djava.io.tmpdir={base}/offline-run/temp"
         ],
         "width": 1100,
         "height": 680
@@ -482,19 +482,19 @@
       "note": "26.2 · мод поверх рантайма",
       "base": "base-26.2",
       "entry": {
-        "java": "offline-run/java/bin/java.exe",
-        "classpathFile": "offline-run/classpath.json",
-        "classpathRoot": "offline-run/libs",
+        "java": "{base}/offline-run/java/bin/java.exe",
+        "classpathFile": "{base}/offline-run/classpath.json",
+        "classpathRoot": "{base}/offline-run/libs",
         "classpathExtra": [
-          "offline-run/minecraft.jar"
+          "{base}/offline-run/minecraft.jar"
         ],
         "mainClass": "net.fabricmc.loader.impl.launch.knot.KnotClient",
         "version": "26.2",
         "assetIndex": "32",
-        "assetsDir": "offline-run/assets",
+        "assetsDir": "{base}/offline-run/assets",
         "gameDir": "game",
-        "nativesDir": "offline-run/libs/windows-x64",
-        "tempDir": "{dir}/run/temp",
+        "nativesDir": "{base}/offline-run/libs/windows-x64",
+        "tempDir": "{base}/offline-run/temp",
         "javaFlags": [
           "--enable-native-access=ALL-UNNAMED",
           "--sun-misc-unsafe-memory-access=allow",
@@ -502,9 +502,9 @@
           "-XX:-UsePerfData"
         ],
         "jvmArgs": [
-          "-Dfabric.gameJarPath={dir}/offline-run/minecraft.jar",
-          "-Duser.home={dir}\\profile",
-          "-Djava.io.tmpdir={dir}\\temp"
+          "-Dfabric.gameJarPath={base}/offline-run/minecraft.jar",
+          "-Duser.home={base}/offline-run/profile",
+          "-Djava.io.tmpdir={base}/offline-run/temp"
         ],
         "width": 1100,
         "height": 680
@@ -521,19 +521,19 @@
       "note": "26.2 · мод поверх рантайма",
       "base": "base-26.2",
       "entry": {
-        "java": "offline-run/java/bin/java.exe",
-        "classpathFile": "offline-run/classpath.json",
-        "classpathRoot": "offline-run/libs",
+        "java": "{base}/offline-run/java/bin/java.exe",
+        "classpathFile": "{base}/offline-run/classpath.json",
+        "classpathRoot": "{base}/offline-run/libs",
         "classpathExtra": [
-          "offline-run/minecraft.jar"
+          "{base}/offline-run/minecraft.jar"
         ],
         "mainClass": "net.fabricmc.loader.impl.launch.knot.KnotClient",
         "version": "26.2",
         "assetIndex": "32",
-        "assetsDir": "offline-run/assets",
+        "assetsDir": "{base}/offline-run/assets",
         "gameDir": "game",
-        "nativesDir": "offline-run/libs/windows-x64",
-        "tempDir": "{dir}/run/temp",
+        "nativesDir": "{base}/offline-run/libs/windows-x64",
+        "tempDir": "{base}/offline-run/temp",
         "javaFlags": [
           "--enable-native-access=ALL-UNNAMED",
           "--sun-misc-unsafe-memory-access=allow",
@@ -541,9 +541,9 @@
           "-XX:-UsePerfData"
         ],
         "jvmArgs": [
-          "-Dfabric.gameJarPath={dir}/offline-run/minecraft.jar",
-          "-Duser.home={dir}\\profile",
-          "-Djava.io.tmpdir={dir}\\temp"
+          "-Dfabric.gameJarPath={base}/offline-run/minecraft.jar",
+          "-Duser.home={base}/offline-run/profile",
+          "-Djava.io.tmpdir={base}/offline-run/temp"
         ],
         "width": 1100,
         "height": 680
